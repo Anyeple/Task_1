@@ -1,0 +1,17 @@
+C:\Users\Anyeple\Desktop\Graphics-master\bin\Debug\task1_bmp.Classic.exe.config
+C:\Users\Anyeple\Desktop\Graphics-master\bin\Debug\task1_bmp.Classic.exe
+C:\Users\Anyeple\Desktop\Graphics-master\bin\Debug\task1_bmp.Classic.pdb
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\desctop.Classic.csproj.AssemblyReference.cache
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\task1_bmp.Classic.exe.config
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\MainWindow.g.cs
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\App.g.cs
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\task1_bmp.Classic_MarkupCompile.cache
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\task1_bmp.Classic_MarkupCompile.lref
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\MainWindow.baml
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\task1_bmp.Classic.g.resources
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\task1_bmp.Classic.Properties.Resources.resources
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\desctop.Classic.csproj.GenerateResource.cache
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\desctop.Classic.csproj.CoreCompileInputs.cache
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\desctop.Classic.csproj.CopyComplete
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\task1_bmp.Classic.exe
+C:\Users\Anyeple\Desktop\Graphics-master\desktop\obj\Debug\task1_bmp.Classic.pdb
